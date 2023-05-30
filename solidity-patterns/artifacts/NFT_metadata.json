@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GaurdCheck.sol": "NFT"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GaurdCheck.sol": {
+			"keccak256": "0xd6e6833e981ae8cebccd4dfbdebd833dd76421ed6214342f17234c3dc6062eaf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3f00c106458378eb34514aa49228de9b62819fab8d6cebbe723b98dfda0f1b64",
+				"dweb:/ipfs/QmUe4eLzjbizkX6ACgvW3rjUMpij5F3XFByRQTkzKgbeyD"
+			]
+		}
+	},
+	"version": 1
+}
